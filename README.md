@@ -1,4 +1,4 @@
-#Employees Management System
+Employees Management System
 
 An Employees Management System built using PHP and MySQL, designed to manage employee data efficiently and track attendance through a simple and user-friendly interface.
 
